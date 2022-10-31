@@ -6,3 +6,5 @@ Currently I am learning Java 17 LTS, Kotlin, Kubernetes, AWS, Kafka and ELK stac
 Read a lot about Design Patterns and System Design.
 
 Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/aperaverzeu/) or via email at aperaverzeu@gmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperaverzeu&theme=ayu-mirage&show_icons=true)
