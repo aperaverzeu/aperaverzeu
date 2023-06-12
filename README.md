@@ -9,5 +9,3 @@ I like to read about Design Patterns and System Design.
 I am interested in Project Management techniques and would like to learn more about Scrum or Agile Leadership. In addition, I like data analysis and hope to learn Scala or Python in the future. I enjoy participating in cultural events and writing science-related articles in my free time.
 
 Feel free to send me a message on [LinkedIn](https://www.linkedin.com/in/aperaverzeu/) or via email at aperaverzeu@gmail.com
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aperaverzeu&theme=ayu-mirage&show_icons=true)
